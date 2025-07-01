@@ -1,6 +1,6 @@
 # 🍔 Food Delivery Time Prediction
 
-This machine learning project predicts the delivery time of food orders based on multiple features like distance, order type, weather conditions, and more. The goal is to help food delivery platforms estimate delivery times more accurately.
+This machine learning project predicts the delivery time of food orders based on multiple features like distance, weather conditions, and more. The goal is to help food delivery platforms estimate delivery times more accurately.
 
 ## 📊 Dataset
 - Source:Kaggle
