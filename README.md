@@ -26,20 +26,23 @@ This machine learning project predicts the delivery time of food orders based on
 ## 📈 ML Models Used
 - Linear Regression
 - Random Forest Regressor
-- Gradient Boosting
+- Decision Tree Regressor
+- SVR
 - XG Boost
 
 ## 🧠 Evaluation Metrics
+- RMSE
 - R² Score
-- MAE / MSE
+- MAE
 - Cross-validation
 
-## 📝 Project Structure
+## Project Structure
 📁 Food-Delivery-Time-Prediction
+- .gitignore
 - Food_Delivery_Times.csv
 - Food_delivery_time_prediction_model.ipynb
-- .gitignore
 - README.md
+- food_delivery_model.pkl
 
 
 ## 📌 How to Run
@@ -50,5 +53,5 @@ This machine learning project predicts the delivery time of food orders based on
 ## 🙋‍♀️ Author
 - **Hasini Kolluri**
 - [GitHub Profile](https://github.com/Hasini-Kolluri)
-- [LinkedIn](https://www.linkedin.com/in/hasini-kolluri/)
+- [LinkedIn Profile](https://www.linkedin.com/in/hasini-kolluri/)
 
